@@ -1,0 +1,6 @@
+This is the first line of text.
+Here is the second line, which includes a number: 123.
+And this is the third line with some more text.
+This is an additional line of text.
+Here is another appended line with numbers: 456.
+And a final line of appended text.
